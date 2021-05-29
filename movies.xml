@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+
+
+<Mayanagari>
+            <Classical>
+                <Movie_Name>Mortal kombat</Movie_Name>
+                <Release_Year>2021</Release_Year>
+            </Classical> 
+
+            <Action>
+                <Movie_Name>Snake Eyes</Movie_Name>
+                <Release_Year>2021</Release_Year>
+            </Action> 
+
+            <Horror>
+                <Movie_Name>Army of the dead</Movie_Name>
+                <Release_Year>2019</Release_Year>
+            </Horror>
+</Mayanagari> 
